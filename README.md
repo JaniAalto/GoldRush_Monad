@@ -1,1 +1,1 @@
-# GoldRush_Monad
+Yksinkertainen käyttöliittymä Monadin koodipähkinälle
